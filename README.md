@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ashish 👋
 
-<!--
-**Ashish-Amlekar/ashish-amlekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer & Data Scientist | Fresh Master's Graduate from TU Braunschweig
 
-Here are some ideas to get you started:
+I build production-minded AI systems — agentic workflows, 
+LLM pipelines, and physics-informed ML. 
+Currently open to AI Engineer / ML Engineer roles in Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+Python · JAVA ·PyTorch · Scikit-learn · MCP
+RAG Architectures · Git · SQL
+
+## 🚀 Currently Working On
+- Learning LangChain Concepts
+- Deepening MLOps & cloud infrastructure skills
+
+## 📫 Reach Me
+LinkedIn: https://www.linkedin.com/in/ashish-amlekar-750055180/
+Email: ashish.amlekar17@gmail.com
