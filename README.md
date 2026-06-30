@@ -1,6 +1,6 @@
 # Hi, I'm Ashish 👋
 
-AI Engineer & Data Scientist | Fresh Master's Graduate from TU Braunschweig
+AI Engineer & Data Scientist | Master's Graduate from TU Braunschweig
 
 I build production-minded AI systems — agentic workflows, 
 LLM pipelines, and physics-informed ML. 
